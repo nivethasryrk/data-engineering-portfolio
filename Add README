@@ -1,1 +1,89 @@
+# Data Analytics / Data Engineering Interview Prep
 
+Author: Nivethasry Malliga Nagarajan
+
+## Overview
+
+This repository contains SQL, Python, Machine Learning, and data pipeline examples that reflect real-world data analytics and data engineering scenarios.
+
+It demonstrates my experience in building scalable data pipelines, performing data analysis, developing machine learning models, and enabling business insights through visualization.
+
+---
+
+## Skills Covered
+
+### SQL
+- Joins (Inner, Left, Right)
+- CTEs (Common Table Expressions)
+- Window Functions (ROW_NUMBER, RANK)
+- Aggregations (SUM, COUNT, AVG)
+- Deduplication and latest record logic
+- Query optimization concepts
+
+### Python
+- Data cleaning using Pandas
+- Handling missing values
+- Removing duplicates
+- Data aggregation and grouping
+- Data validation and automation
+
+### Machine Learning
+- Classification and regression models (Logistic Regression, Random Forest, SVM)
+- Feature engineering and data preprocessing
+- Model evaluation (Accuracy, Precision, Recall, F1-score)
+- NLP basics using NLTK (text processing, sentiment analysis)
+- Integration of ML models into data pipelines
+
+### Data Engineering Concepts
+- ETL / ELT pipelines
+- Data staging and transformation
+- Batch and streaming processing (Kafka)
+- Data quality validation and reconciliation
+- Data warehousing concepts
+
+### Data Visualization & BI
+- Building dashboards using Tableau
+- Creating interactive reports with filters and parameters
+- Data storytelling and business insights
+- Supporting self-service analytics
+
+---
+
+## Sample Use Cases
+
+- Finding latest record per customer
+- Identifying second highest salary
+- Aggregating sales data
+- Removing duplicate records
+- Validating data between source and target
+- Building ML models for prediction
+- Designing end-to-end data pipelines
+- Creating dashboards for business reporting
+
+---
+
+## Tools & Technologies
+
+- SQL
+- Python (Pandas, NumPy, Scikit-learn)
+- Databricks / Spark
+- Azure Data Factory (ADF)
+- AWS Glue
+- Kafka (streaming)
+- Tableau / Power BI
+- Machine Learning Libraries (Scikit-learn, NLTK)
+- Data Warehousing (Redshift, Synapse)
+
+---
+
+## Repository Structure
+
+- `sql_practice.sql` → SQL interview problems and solutions  
+- `python_data_tasks.py` → Python data processing and validation examples  
+- `sample_pipeline.md` → End-to-end data pipeline design  
+
+---
+
+## Notes
+
+This repository is a compact showcase of practical skills in data analytics, data engineering, and machine learning, focused on solving real-world problems and enabling data-driven decision-making.
